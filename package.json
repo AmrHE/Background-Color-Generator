@@ -1,0 +1,14 @@
+{
+  "name": "background_generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "BackgroundGenerator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amr Hassan <amr.hassan.emam@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
